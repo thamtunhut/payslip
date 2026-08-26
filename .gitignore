@@ -1,0 +1,9 @@
+# Dữ liệu bảng lương thật (chứa CCCD, MST, lương nhân viên) - không đưa lên repo
+*.xlsx
+*.xls
+*.csv
+
+# File PDF xuất ra từ công cụ (phiếu lương cá nhân)
+Payslip_*.pdf
+PhieuLuong_*.zip
+PhieuLuong_*/
